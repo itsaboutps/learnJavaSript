@@ -13,6 +13,7 @@ console.log(absoluteValuesSumMinimization([2, 4, 7, 6, 6]));
 
 
 
+//learning git 
 
 
 
